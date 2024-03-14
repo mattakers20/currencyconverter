@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = 'fd1464d747619ec8ea636e0d592b5224'  # Replace 'YOUR_API_KEY' with your actual Fixer API key
+API_KEY = ''  # Replace 'YOUR_API_KEY' with your actual Fixer API key
 
 def getRates():
     endpoint = 'http://data.fixer.io/api/latest'
